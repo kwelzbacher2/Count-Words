@@ -1,10 +1,3 @@
-//===================================
-// Columbus State Community College
-// CSCI 2469 - Autumn Semester 2017
-// Assignment: midterm 2
-// Programmer: Katie Welzbacher
-//===================================
-
 package edu.cscc.csci2469.midterm2;
 
 import java.io.BufferedReader;
@@ -16,7 +9,7 @@ import java.util.TreeMap;
 
 /**
  * Class CountWords reads a text file and provides the word count for each word in the file. 
- * @author Kwelzbacher
+ * @author kwelzbacher
  *
  */
 public class CountWords
